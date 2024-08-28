@@ -26,3 +26,9 @@
 `rails g scaffold article title: string content:text`
 
 `rails db:migrate`
+
+# Hotwire
+
+approach to build modern web applications without js but sending html instead of json hence fast load pages. more productive development, speed responsiveness
+
+
